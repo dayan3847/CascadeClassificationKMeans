@@ -1,4 +1,0 @@
-# ignorar todos menos el gitignore
-*
-!.gitignore
-!*.pdf
